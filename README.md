@@ -1,1 +1,3 @@
-# CryptoPals
+Originally, this was going to be a repo solely for [Cryptopals](http://cryptopals.com/) but I've decided not to go straight through, instead I intend to meander a bit. I'm currently reading _Modern Cryptanalysis_ by Christopher Swenson, and I intend to work through the exercises in this book, up until it covers block crypto, at which point I will come back to Cryptopals.
+
+Because of this, this repo is currently a bit messy. Oh well.
